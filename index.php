@@ -14,6 +14,19 @@
         }
     }*/
 
+    //MOVE THIS to file
+    function generateTitle($item){
+        if(array_key_exists ("title", $item)){
+            return "<h1>" . $item["title"][$lang] . "</h1>"   
+        }
+    }    
+
+    function generateBox(item){
+        
+    }
+
+    //END
+
     $jsonContent = json_decode(file_get_contents("data.json"),true);
 
     //page vals
@@ -58,4 +71,4 @@
 
 
 </body>
-</html>
+</html
