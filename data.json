@@ -1,0 +1,41 @@
+{
+    "langs":["en","de"],
+    "default-lang":"en",
+    "header":{
+        "en":"about Bruno Hautzenberger",
+        "de":"&uuml; Bruno Hautzenberger"
+    },
+    "footer":{
+        "en":"powered by <a class='bright' href='https://github.com/salendron/randomnoise' target='_blank'>Random Noise</a>",
+        "de":"powered by <a class='bright' href='https://github.com/salendron/randomnoise' target='_blank'>Random Noise</a>"
+    },
+    "items":[
+        {
+            "title":[
+                {"en":"about Bruno Hautzenberger"},
+                {"de":" Bruno Hautzenberger"}
+            ],
+            "text":[
+                {"en":"about Bruno Hautzenberger"},
+                {"de":" Bruno Hautzenberger"}
+            ],
+            "quote":[
+                {"en":"about Bruno Hautzenberger"},
+                {"de":" Bruno Hautzenberger"}
+            ],
+            "list":[
+                {"en":"about Bruno Hautzenberger"},
+                {"de":" Bruno Hautzenberger"}
+            ],
+            "link-list":[
+                {"en":"about Bruno Hautzenberger"},
+                {"de":" Bruno Hautzenberger"}
+            ],
+            "iamge":{
+                "height":"400px",
+                "path":"http://sdsf"
+            },
+            "htmlBlock":""
+        }
+    ]
+}
