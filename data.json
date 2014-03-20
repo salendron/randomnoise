@@ -3,7 +3,7 @@
     "default-lang":"en",
     "header":{
         "en":"about Bruno Hautzenberger",
-        "de":"&uuml; Bruno Hautzenberger"
+        "de":"�ber Bruno Hautzenberger"
     },
     "footer":{
         "en":"powered by <a class='bright' href='https://github.com/salendron/randomnoise' target='_blank'>Random Noise</a>",
@@ -11,31 +11,257 @@
     },
     "items":[
         {
-            "title":[
-                "en":"about Bruno Hautzenberger"},
-                {"de":" Bruno Hautzenberger"}
-            ],
-            "text":[
-                {"en":"about Bruno Hautzenberger"},
-                {"de":" Bruno Hautzenberger"}
-            ],
-            "quote":[
-                {"en":"about Bruno Hautzenberger"},
-                {"de":" Bruno Hautzenberger"}
-            ],
-            "list":[
-                {"en":"about Bruno Hautzenberger"},
-                {"de":" Bruno Hautzenberger"}
-            ],
-            "link-list":[
-                {"en":"about Bruno Hautzenberger"},
-                {"de":" Bruno Hautzenberger"}
-            ],
-            "iamge":{
-                "height":"400px",
-                "path":"http://sdsf"
+            "quote":{
+                "en":"So you want to know more about me?",
+                "de":"Du willst also mehr �ber mich erfahren?"
+            }
+        },
+        {
+            "title":{
+                "en":"I am human",
+                "de":"Ich bin humanoid"
             },
-            "htmlBlock":""
+            "text":{
+                "en":"My name is Bruno Hautzenberger. I was born in 1987 in Carinthia/Austria and I am still living there.",
+                "de":"Mein Name ist Bruno Hautzenberger. Ich wurde 1987 in K�rnten in �sterreich geboren und lebe immer noch dort."
+            },
+            "htmlBlock":"<iframe src='https://www.google.com/maps/embed?pb=!1m5!3m3!1m2!1s0x477070b8e1e36573%3A0x166c4a21635ca9c8!2sMoosburg!5e0!3m2!1sde!2sat!4v1387799506236' width='100%'' frameborder='0'></iframe>"
+        },
+        {
+            "title":{
+                "en":"In my free time",
+                "de":"In meiner Freizeit"
+            },
+            "text":{
+                "en":"When I am not at work I am building Android apps, Wordpress plugins, little Linux tools as well as Raspberry Pi and Android projects. From time to time I leave my PC to take some photos of everything that can't escape my lens.",
+                "de":"Wenn ich nicht im B&uuml;ro bin, baue ich Android Apps, Wordpress Plugins, kleine Linux Tools und Raspberry Pi- sowie Arduino-Projekte. Manchmal verlasse ich aber auch meinen PC, um Fotos zu schie�en."
+            },
+            "link-list":[
+                {
+                    "url":"https://github.com/salendron",
+                    "icon":"ic_github.png",
+                    "text":{
+                        "en":"<span class='highlight'>github.com/salendron</span> All my OpenSource projects in one place and ready to use.",
+                        "de":"<span class='highlight'>github.com/salendron</span> Meine OpenSource Projekte auf Github."
+                    }
+                    
+                },
+                {
+                    "url":"http://500px.com/bhautzenberger",
+                    "icon":"ic_500px.png",
+                    "text":{
+                        "en":"<span class='highlight'>500px.com/bhautzenberger</span> The photos I take in my creative moments.",
+                        "de":"<span class='highlight'>500px.com/bhautzenberger</span> Eine Auswahl an Fotos meiner kreativen Momente."
+                    }
+                    
+                }
+            ]
+        },
+        {
+            "quote":{
+                "en":"I love everything new",
+                "de":"Ich liebe alles Neue"
+            }
+        },
+        {
+            "title":{
+                "en":"I am good at...",
+                "de":"Ich bin gut darin..."
+            },
+            "text":{
+                "en":"...analyzing complex problems<br />...finding new ways to solve a problem<br />...designing software<br />...working in teams<br />...learning new things<br />...falling in love with innovative ideas",
+                "de":"...komplexe Probleme zu analysieren<br />...neue Wege zu finden, um ein Problem zu l�sen<br />...Software zu designen<br />...in Teams zu arbeiten<br />...neue Dinge zu lernen<br />...mich in innovative Ideen zu verlieben"
+            }
+        },
+        {
+            "title":{
+                "en":"I am bad at...",
+                "de":"Ich bin schlecht darin..."
+            },
+            "text":{
+                "en":"...remembering birthdays<br />...resisting new gadgets",
+                "de":"...mich an Geburtstage zu erinnern<br />...neuen Gadgets zu wiederstehen"
+            }
+        },
+        {
+            "title":{
+                "en":"Stalk me!",
+                "de":"Finde mich!"
+            },
+            "link-list":[
+                {
+                    "url":"http://the-engine.at",
+                    "icon":"ic_blog.png",
+                    "text":{
+                        "en":"<span class='highlight'>the-engine.at</span> Blogging about IT, innovations, mobility, software engineering and everything else that comes to my mind.",
+                        "de":"<span class='highlight'>the-engine.at</span> Dort schreibe ich &uuml;ber IT-Themen, Innovationen, Mobility, Softwareentwicklung und vieles mehr."
+                    }
+                    
+                },
+                {
+                    "url":"http://plus.google.com/+BrunoHautzenberger",
+                    "icon":"ic_plus.png",
+                    "text":{
+                        "en":"<span class='highlight'>plus.google.com/+BrunoHautzenberger</span> Talking about my life, the web, the cloud, innovations and there are also some photos of the things that cross my way.",
+                        "de":"<span class='highlight'>plus.google.com/+BrunoHautzenberger</span> In meinem Google+ Stream geht es meist um meinen Alltag, das Web, die Cloud und alles andere, was in meinem Kopf so vorgeht."
+                    }
+                    
+                },
+                {
+                    "url":"http://twitter.com/salendron",
+                    "icon":"ic_twitter.png",
+                    "text":{
+                        "en":"<span class='highlight'>twitter.com/salendron</span> Random thoughts - 140 letters at a time.",
+                        "de":"<span class='highlight'>twitter.com/salendron</span> Meine Welt in 140 Zeichen."
+                    }
+                    
+                },
+                {
+                    "url":"http://facebook.com/bruno.hautzenberger",
+                    "icon":"ic_facebook.png",
+                    "text":{
+                        "en":"<span class='highlight'>facebook.com/bruno.hautzenberger</span> If you think we should be friends, send me a request.",
+                        "de":"<span class='highlight'>facebook.com/bruno.hautzenberger</span> Wenn du denkst, wir sollten Freunde sein, ist das der Ort, an dem du mir einen entsprechenden Request senden kannst."
+                    }
+                    
+                }
+            ]
+        },
+        {
+            "title":{
+                "en":"at work",
+                "de":"Bei der Arbeit"
+            },
+            "text":{
+                "en":"<b>CTO & Founder at <a href='http://xamoom.com' target='_blank'>xamoom</a></b><br />In 2014 Georg Holzer and me founded xamoom. A company that is dedicated to art, technology and to those who want to discover something new. My Job is to build and design all the technical stuff needed to make this work.",
+                "de":"<b>CTO & Founder bei <a href='http://xamoom.com' target='_blank'>xamoom</a></b><br />2014 gr&uuml;ndeten Georg Holzer und ich xamoom, eine Unternehmung, die sich der Kunst, der Technologie und all jenen, die etwas Neues entdecken wollen, verschrieben hat. Mein Job ist es, alle technischen Komponenten, die das System zum Leben erwecken, zu implemetieren und zu designen."
+            },
+            "link-list":[
+                {
+                    "url":"http://xamoom.com",
+                    "icon":"ic_xamoom.png",
+                    "text":{
+                        "en":"<span class='highlight'>xamoom.com</span> We will help you making great discoveries.",
+                        "de":"<span class='highlight'>xamoom.com</span> We will help you making great discoveries."
+                    }
+                    
+                }
+            ]
+        },
+        {
+            "title":{
+                "en":"Skills",
+                "de":"Fertigkeiten"
+            },
+            "text":{
+                "en":"I have several years of experience in developing Java and Microsoft .Net applications and services as well as Android and iOS apps.<br />Using Linux, MacOS and Windows as development platforms is part of my daily work. Oracle and MSSql Server are part of my job for years now. <br />Also cloud based services on Google Cloud Platform are nothing new to me and a great place to show off my Python skills.",
+                "de":"Ich habe einige Jahre Erfahrung mit der Entwicklung von Java und Microsoft .NET Applikationen und Services sowie von Android und iOS Apps. Linux, MacOS und Windows als Entwicklungsplattformen sind Teil meiner t&auml;glichen Arbeit. Des Weiteren habe ich Erfahrung mit Oracle und MSSql Datenbankmanagementsystemen. Auch die Entwicklung von Services auf der Google Cloud Platform ist Teil meines Alltags und fordert von mir meine besten Python-Skills."
+            }
+        },
+        {
+            "title":{
+                "en":"You can talk to me...",
+                "de":"Man kann sich mit mir unterhalten..."
+            },
+            "text":{
+                "en":"...in german<br />...or in english",
+                "de":"...auf deutsch<br />...oder auf englisch"
+            }
+        },
+        {
+            "title":{
+                "en":"pingeb.org",
+                "de":"pingeb.org"
+            },
+            "text":{
+                "en":"In 2012 Georg Holzer and me founded a project called pingeb.org. It is an art project utilizing modern technologies like NFC and QR codes to connect the public space with the web to promote local artists.<br />In 2012 we were awarded by <a href='http://www.netidee.at/' target='_blank'>netidee</a> for this project, we got invited to the <a href='http://www.tedxvienna.at/' target='_blank'>TEDx conference</a> in vienna and the <a href='http://www.i-comp.org/' target='_blank'>iCOMP congress</a> to speak about this project.<br />On the 21st of February 2014 we got the <a href='http://ba-02.mediasupport.biz/kunstpreis/' target='_blank'>Bank Austria Kunstpreis</a>, which is one of the biggest art prices in Austria.<br />After that we founded xamoom, a startup, to allow this project to go global.",
+                "de":"2012 gr&uuml;ndeten Georg Holzer und ich ein Projekt namens pingeb.org. Dieses Projekt verwendet moderne Technologien wie NFC Tags und QR Codes, um den &ouml;ffentlichen Raum mit dem Web zu verbinden und lokale K&uuml;nstler bekannter zu machen. 2012 wurden wir von der <a href='http://www.netidee.at/' target='_blank'>netidee</a> f&uuml;r dieses Projekt ausgezeichnet, wir wurden zur <a href='http://www.tedxvienna.at/' target='_blank'>TEDx Konferenz</a> in Wien und zu einem <a href='http://www.i-comp.org/' target='_blank'>iCOMP Kongress</a> eingeladen, um �ber das Projekt zu sprechen. Am 21. Februar wurde uns der <a href='http://ba-02.mediasupport.biz/kunstpreis/' target='_blank'>Bank Austria Kunstpreis</a> verliehen.<br />Im Anschluss gr�ndeten wir xamoom, um diese Idee global zu verbreiten."
+            },
+            "link-list":[
+                {
+                    "url":"http://pingeb.org",
+                    "icon":"ic_pingeborg.jpg",
+                    "text":{
+                        "en":"<span class='highlight'>pingeb.org</span> Find out more about this project that makes me proud every day.",
+                        "de":"<span class='highlight'>pingeb.org</span> Finde mehr �ber dieses Projekt heraus, das mich jeden Tag mehr stolz macht."
+                    }
+                }
+            ]
+        },
+        {
+            "title":{
+                "en":"Awards",
+                "de":"Auszeichnungen"
+            },
+            "text":{
+                "en":"Netidee-Award and Bank Austria-Kunstpreis for Project Ingeborg.",
+                "de":"Netidee-Award und Bank Austria-Kunstpreis f&uuml;r Projekt Ingeborg."
+            }
+        },
+        {
+            "quote":{
+                "en":"Without passion my work would be meaningless.",
+                "de":"Ohne Leidenschaft w�re meine Arbeit bedeutungslos."
+            }
+        },
+        {
+            "image":"me.jpg"
+        },
+        {
+            "title":{
+                "en":"There's an app for that!",
+                "de":"Da gibt es eine App daf�r!"
+            },
+            "text":{
+                "en":"As I already told you I am developing apps for Android in my free time. Here are some of them, which you can download for free from Google Play Store.",
+                "de":"Wie bereits erw�hnt entwickle, ich in meiner Freizeit Android Apps. Einige davon k�nnen kostenlos aus dem Google Play Store heruntergeladen werden."
+            },
+            "link-list":[
+                {
+                    "url":"https://play.google.com/store/apps/details?id=at.theengine.android.icytime",
+                    "icon":"ic_icy.png",
+                    "text":{
+                        "en":"<span class='highlight'>Icy Time</span> is a minimalistic and easy to use stopwatch and timer app.",
+                        "de":"<span class='highlight'>Icy Time</span> ist eine minimalistische Timer- und Stoppuhr-App."
+                    }
+                },
+                {
+                    "url":"https://play.google.com/store/apps/details?id=at.theengine.android.aquarinthhia",
+                    "icon":"ic_aqua.png",
+                    "text":{
+                        "en":"<span class='highlight'>AQUArinthia</span> is an app to visualize OpenData weather information from carinthia.",
+                        "de":"<span class='highlight'>AQUArinthia</span> dient zur Visualisierung von OpenData-Wetterdaten f�r K�rnten."
+                    }
+                },
+                {
+                    "url":"https://play.google.com/store/apps/details?id=org.pingeb.finder",
+                    "icon":"ic_pingeborg.jpg",
+                    "text":{
+                        "en":"<span class='highlight'>pingeb.org Finder</span> helps you to find pingeb.org locations and informs you about new artist in your city.",
+                        "de":"<span class='highlight'>pingeb.org Finder</span> hilft dabei, pingeb.org Sticker zu finden, und informiert �ber neue K�nstler in deiner Stadt."
+                    }
+                }
+            ]
+        },
+        {
+            "title":{
+                "en":"Career",
+                "de":"Karriere"
+            },
+            "text":{
+                "en":"<b>2014 - now: </b>CTO at xamoom<br /><b>2007 - 2014: </b>Software Engineer (ECM & Mobility) addIT<br /><b>2004 - 2008: </b>Apprenticeship as Software Engineer",
+                "de":"<b>2014 - heute: </b>CTO bei xamoom<br /><b>2007 - 2014: </b>Software Engineer (ECM & Mobility) addIT<br /><b>2004 - 2008: </b>Ausbildung zum Software Engineer"
+            }
+        },
+        {
+            "title":{
+                "en":"Disclaimer",
+                "de":"Disclaimer"
+            },
+            "text":{
+                "de":"Diese Seite wird, sofern nicht anders gekennzeichnet, von Bruno Hautzenberger betrieben und mit Inhalt bef�llt.<br /><br /><b>Disclaimer google analytics</b><br />Diese Website benutzt Google Analytics, einen Webanalysedienst der Google Inc. (?Google?). Google Analytics verwendet sog. ?Cookies?, Textdateien, die auf Ihrem Computer gespeichert werden und die eine Analyse der Benutzung der Website durch Sie erm�glichen. Die durch den Cookie erzeugten Informationen �ber Ihre Benutzung dieser Website (einschlie�lich Ihrer IP-Adresse) wird an einen Server von Google in den USA �bertragen und dort gespeichert. Google wird diese Informationen benutzen, um Ihre Nutzung der Website auszuwerten, um Reports �ber die Websiteaktivit�ten f�r die Websitebetreiber zusammenzustellen und um weitere mit der Websitenutzung und der Internetnutzung verbundene Dienstleistungen zu erbringen. Auch wird Google diese Informationen gegebenenfalls an Dritte �bertragen, sofern dies gesetzlich vorgeschrieben oder soweit Dritte diese Daten im Auftrag von Google verarbeiten. Google wird in keinem Fall Ihre IP-Adresse mit anderen Daten von Google in Verbindung bringen. Sie k�nnen die Installation der Cookies durch eine entsprechende Einstellung Ihrer Browser Software verhindern; wir weisen Sie jedoch darauf hin, dass Sie in diesem Fall gegebenenfalls nicht s�mtliche Funktionen dieser Website vollumf�nglich nutzen k�nnen. Durch die Nutzung dieser Website erkl�ren Sie sich mit der Bearbeitung der �ber Sie erhobenen Daten durch Google in der zuvor beschriebenen Art und Weise und zu dem zuvor benannten Zweck einverstanden.",
+                "en":"This website is owned by Bruno Hautzenberger (me). I am also the only one who creates the content of this website.<br /><br /><b>Disclaimer google analytics</b><br />This website uses Google Analytics, a web analytics service provided by Google, Inc. ('Google'). Google Analytics uses 'cookies', which are text files placed on your computer to help the website analyse how visitors use the site. The information generated by the cookie about your use of the website (including your IP address) will be transmitted to and stored by Google on servers in the United States . Google will use this information for the purpose of evaluating your use of the website, compiling reports on website activity for website operators and providing other services relating to website activity and internet usage. Google may also transfer this information to third parties where required to do so by law, or where such third parties process the information on Google's behalf. Google will not associate your IP address with any other data held by Google. You may refuse the use of cookies by selecting the appropriate settings on your browser, however please note that if you do this you may not be able to use the full functionality of this website. By using this website, you consent to the processing of data about you by Google in the manner and for the purposes set out above."
+            }
         }
     ]
 }
